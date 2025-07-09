@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rucky!
+# 👋 Hi, I'm Q!
 🕹️ Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist | 🔧 Blender Tinkerer  
 <br/>
 👨‍💻 Currently building web apps & Roblox games with custom mechanics<br/>
