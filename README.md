@@ -61,7 +61,7 @@ but I hope I can do it. keep my promise.. and become a pro someday...
 ---
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RUckyTheGreat&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=midcoder7&color=blue)
 
 ## 🚀 Thanks for visiting!
 
