@@ -2,7 +2,7 @@
  👨‍💻 Programmer
 <br/>
 Call me Q and currently I'm still a Beginner in coding, and yes still making some progress... MANY MISTAKES even rookie mistakes 😥 
-but I hope I can do it. keep my promise.. and become a pro someday...
+but I hope I can do it.
 ---
 
 ## 🏆 GitHub Stats
