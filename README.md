@@ -33,7 +33,7 @@ but I hope I can do it.
 
 ## 🧠 Currently Exploring
 
-- 🤖 Learning about PYTHON, LUA Roblox, and other else
+- 🤖 Learning about PYTHON, Website using HTML, and other else
 - 📝 Can contribute with anyone who wants to learn or help me for my upcoming PROJECTS
 
 ---
